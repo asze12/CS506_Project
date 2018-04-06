@@ -1,0 +1,547 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HC01,HC02
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic Area,Geographic Area1,Percent,Margin of Error
+0400000US25,25,Massachusetts,0400000US25,25,Massachusetts,Massachusetts,90.1,0.1
+0400000US25,25,Massachusetts,1600000US2500135,2500135,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Abington CDP, Plymouth County","Abington CDP, Plymouth County",95.5,1.3
+0400000US25,25,Massachusetts,0600000US2502300170,2502300170,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Abington town, Plymouth County","Abington town, Plymouth County",95.5,1.3
+0400000US25,25,Massachusetts,0600000US2501700380,2501700380,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Acton town, Middlesex County","Acton town, Middlesex County",97.9,0.8
+0400000US25,25,Massachusetts,0600000US2500500520,2500500520,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Acushnet town, Bristol County","Acushnet town, Bristol County",82.1,3.2
+0400000US25,25,Massachusetts,1600000US2500530,2500530,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Acushnet Center CDP, Bristol County","Acushnet Center CDP, Bristol County",79.8,6.3
+0400000US25,25,Massachusetts,0600000US2500300555,2500300555,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Adams town, Berkshire County","Adams town, Berkshire County",88.8,2.4
+0400000US25,25,Massachusetts,1600000US2500590,2500590,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Adams CDP, Berkshire County","Adams CDP, Berkshire County",88.5,3
+0400000US25,25,Massachusetts,1600000US2500840,2500840,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Agawam Town city, Hampden County","Agawam Town city, Hampden County",92.1,1.5
+0400000US25,25,Massachusetts,0600000US2500300975,2500300975,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Alford town, Berkshire County","Alford town, Berkshire County",98.3,1.7
+0400000US25,25,Massachusetts,1600000US2501260,2501260,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Amesbury Town city, Essex County","Amesbury Town city, Essex County",93.8,1.7
+0400000US25,25,Massachusetts,0600000US2501501325,2501501325,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Amherst town, Hampshire County","Amherst town, Hampshire County",94.5,1.3
+0400000US25,25,Massachusetts,1600000US2501360,2501360,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Amherst Center CDP, Hampshire County","Amherst Center CDP, Hampshire County",94.8,2.2
+0400000US25,25,Massachusetts,1600000US2501430,2501430,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Andover CDP, Essex County","Andover CDP, Essex County",95.6,1.7
+0400000US25,25,Massachusetts,0600000US2500901465,2500901465,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Andover town, Essex County","Andover town, Essex County",97.1,0.6
+0400000US25,25,Massachusetts,0600000US2500701585,2500701585,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Aquinnah town, Dukes County","Aquinnah town, Dukes County",86.3,10.6
+0400000US25,25,Massachusetts,0600000US2501701605,2501701605,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Arlington town, Middlesex County","Arlington town, Middlesex County",96.5,0.6
+0400000US25,25,Massachusetts,1600000US2501640,2501640,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Arlington CDP, Middlesex County","Arlington CDP, Middlesex County",96.5,0.6
+0400000US25,25,Massachusetts,0600000US2502701885,2502701885,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ashburnham town, Worcester County","Ashburnham town, Worcester County",96.2,2.1
+0400000US25,25,Massachusetts,0600000US2501701955,2501701955,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ashby town, Middlesex County","Ashby town, Middlesex County",93,2.6
+0400000US25,25,Massachusetts,0600000US2501102095,2501102095,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ashfield town, Franklin County","Ashfield town, Franklin County",97.8,1.2
+0400000US25,25,Massachusetts,0600000US2501702130,2501702130,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ashland town, Middlesex County","Ashland town, Middlesex County",95.6,1.3
+0400000US25,25,Massachusetts,0600000US2502702480,2502702480,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Athol town, Worcester County","Athol town, Worcester County",86.4,3
+0400000US25,25,Massachusetts,1600000US2502515,2502515,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Athol CDP, Worcester County","Athol CDP, Worcester County",83.2,4.3
+0400000US25,25,Massachusetts,1600000US2502690,2502690,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Attleboro city, Bristol County","Attleboro city, Bristol County",89.5,1.5
+0400000US25,25,Massachusetts,0600000US2502702760,2502702760,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Auburn town, Worcester County","Auburn town, Worcester County",93.2,1.4
+0400000US25,25,Massachusetts,0600000US2502102935,2502102935,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Avon town, Norfolk County","Avon town, Norfolk County",87.7,4.1
+0400000US25,25,Massachusetts,0600000US2501703005,2501703005,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ayer town, Middlesex County","Ayer town, Middlesex County",95.8,2.5
+0400000US25,25,Massachusetts,1600000US2503040,2503040,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ayer CDP, Middlesex County","Ayer CDP, Middlesex County",92.8,5.6
+0400000US25,25,Massachusetts,1600000US2503355,2503355,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Baldwinville CDP, Worcester County","Baldwinville CDP, Worcester County",90.7,5.4
+0400000US25,25,Massachusetts,1600000US2503690,2503690,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Barnstable Town city, Barnstable County","Barnstable Town city, Barnstable County",94.6,0.9
+0400000US25,25,Massachusetts,1600000US2503705,2503705,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Barre CDP, Worcester County","Barre CDP, Worcester County",98.3,2.6
+0400000US25,25,Massachusetts,0600000US2502703740,2502703740,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Barre town, Worcester County","Barre town, Worcester County",95.9,2.3
+0400000US25,25,Massachusetts,0600000US2500304545,2500304545,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Becket town, Berkshire County","Becket town, Berkshire County",93.4,2.3
+0400000US25,25,Massachusetts,0600000US2501704615,2501704615,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bedford town, Middlesex County","Bedford town, Middlesex County",97.8,0.7
+0400000US25,25,Massachusetts,1600000US2504790,2504790,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Belchertown CDP, Hampshire County","Belchertown CDP, Hampshire County",88.3,6.4
+0400000US25,25,Massachusetts,0600000US2501504825,2501504825,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Belchertown town, Hampshire County","Belchertown town, Hampshire County",92.7,2
+0400000US25,25,Massachusetts,0600000US2502104930,2502104930,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bellingham town, Norfolk County","Bellingham town, Norfolk County",95.2,1.1
+0400000US25,25,Massachusetts,1600000US2504965,2504965,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bellingham CDP, Norfolk County","Bellingham CDP, Norfolk County",95.8,2.3
+0400000US25,25,Massachusetts,0600000US2501705070,2501705070,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Belmont town, Middlesex County","Belmont town, Middlesex County",97,0.8
+0400000US25,25,Massachusetts,1600000US2505105,2505105,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Belmont CDP, Middlesex County","Belmont CDP, Middlesex County",97,0.8
+0400000US25,25,Massachusetts,0600000US2500505280,2500505280,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Berkley town, Bristol County","Berkley town, Bristol County",91.5,4.5
+0400000US25,25,Massachusetts,0600000US2502705490,2502705490,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Berlin town, Worcester County","Berlin town, Worcester County",94.6,2.3
+0400000US25,25,Massachusetts,0600000US2501105560,2501105560,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bernardston town, Franklin County","Bernardston town, Franklin County",95.8,1.7
+0400000US25,25,Massachusetts,1600000US2505595,2505595,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Beverly city, Essex County","Beverly city, Essex County",94.9,0.9
+0400000US25,25,Massachusetts,0600000US2501705805,2501705805,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Billerica town, Middlesex County","Billerica town, Middlesex County",93.2,1.2
+0400000US25,25,Massachusetts,0600000US2502706015,2502706015,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Blackstone town, Worcester County","Blackstone town, Worcester County",93.3,1.6
+0400000US25,25,Massachusetts,1600000US2506050,2506050,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Blandford CDP, Hampden County","Blandford CDP, Hampden County",90.4,6.5
+0400000US25,25,Massachusetts,0600000US2501306085,2501306085,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Blandford town, Hampden County","Blandford town, Hampden County",93.2,3.3
+0400000US25,25,Massachusetts,1600000US2506170,2506170,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bliss Corner CDP, Bristol County","Bliss Corner CDP, Bristol County",74.8,5.7
+0400000US25,25,Massachusetts,0600000US2502706365,2502706365,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bolton town, Worcester County","Bolton town, Worcester County",97.8,1.4
+0400000US25,25,Massachusetts,1600000US2507000,2507000,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Boston city, Suffolk County","Boston city, Suffolk County",85.7,0.4
+0400000US25,25,Massachusetts,1600000US2507140,2507140,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bourne CDP, Barnstable County","Bourne CDP, Barnstable County",96.4,4.2
+0400000US25,25,Massachusetts,0600000US2500107175,2500107175,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bourne town, Barnstable County","Bourne town, Barnstable County",96.4,1
+0400000US25,25,Massachusetts,0600000US2501707350,2501707350,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Boxborough town, Middlesex County","Boxborough town, Middlesex County",98.9,1
+0400000US25,25,Massachusetts,1600000US2507385,2507385,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Boxford CDP, Essex County","Boxford CDP, Essex County",97.7,2.1
+0400000US25,25,Massachusetts,0600000US2500907420,2500907420,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Boxford town, Essex County","Boxford town, Essex County",97.8,1.1
+0400000US25,25,Massachusetts,0600000US2502707525,2502707525,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Boylston town, Worcester County","Boylston town, Worcester County",95.3,2.9
+0400000US25,25,Massachusetts,1600000US2507740,2507740,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Braintree Town city, Norfolk County","Braintree Town city, Norfolk County",94,1
+0400000US25,25,Massachusetts,1600000US2507945,2507945,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Brewster CDP, Barnstable County","Brewster CDP, Barnstable County",98.7,2.1
+0400000US25,25,Massachusetts,0600000US2500107980,2500107980,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Brewster town, Barnstable County","Brewster town, Barnstable County",98.5,0.9
+0400000US25,25,Massachusetts,1600000US2508050,2508050,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bridgewater CDP, Plymouth County","Bridgewater CDP, Plymouth County",93.5,3.4
+0400000US25,25,Massachusetts,0600000US2502308085,2502308085,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Bridgewater town, Plymouth County","Bridgewater town, Plymouth County",92.4,1.4
+0400000US25,25,Massachusetts,0600000US2501308470,2501308470,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Brimfield town, Hampden County","Brimfield town, Hampden County",93.4,2.9
+0400000US25,25,Massachusetts,1600000US2509000,2509000,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Brockton city, Plymouth County","Brockton city, Plymouth County",81.4,1.4
+0400000US25,25,Massachusetts,1600000US2509070,2509070,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Brookfield CDP, Worcester County","Brookfield CDP, Worcester County",97.4,2.4
+0400000US25,25,Massachusetts,0600000US2502709105,2502709105,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Brookfield town, Worcester County","Brookfield town, Worcester County",88.9,4.1
+0400000US25,25,Massachusetts,0600000US2502109175,2502109175,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Brookline town, Norfolk County","Brookline town, Norfolk County",97,0.6
+0400000US25,25,Massachusetts,1600000US2509210,2509210,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Brookline CDP, Norfolk County","Brookline CDP, Norfolk County",97,0.6
+0400000US25,25,Massachusetts,0600000US2501109595,2501109595,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Buckland town, Franklin County","Buckland town, Franklin County",89,6.2
+0400000US25,25,Massachusetts,0600000US2501709840,2501709840,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Burlington town, Middlesex County","Burlington town, Middlesex County",93.2,1.9
+0400000US25,25,Massachusetts,1600000US2509875,2509875,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Burlington CDP, Middlesex County","Burlington CDP, Middlesex County",93.2,1.9
+0400000US25,25,Massachusetts,1600000US2510015,2510015,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Buzzards Bay CDP, Barnstable County","Buzzards Bay CDP, Barnstable County",94.4,2.8
+0400000US25,25,Massachusetts,1600000US2511000,2511000,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Cambridge city, Middlesex County","Cambridge city, Middlesex County",94.1,0.5
+0400000US25,25,Massachusetts,0600000US2502111315,2502111315,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Canton town, Norfolk County","Canton town, Norfolk County",96.8,0.9
+0400000US25,25,Massachusetts,0600000US2501711525,2501711525,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Carlisle town, Middlesex County","Carlisle town, Middlesex County",98.2,1.1
+0400000US25,25,Massachusetts,0600000US2502311665,2502311665,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Carver town, Plymouth County","Carver town, Plymouth County",89.2,2.7
+0400000US25,25,Massachusetts,0600000US2501112505,2501112505,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Charlemont town, Franklin County","Charlemont town, Franklin County",89.9,4.1
+0400000US25,25,Massachusetts,0600000US2502712715,2502712715,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Charlton town, Worcester County","Charlton town, Worcester County",94.8,1.6
+0400000US25,25,Massachusetts,1600000US2512960,2512960,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chatham CDP, Barnstable County","Chatham CDP, Barnstable County",96.9,3
+0400000US25,25,Massachusetts,0600000US2500112995,2500112995,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chatham town, Barnstable County","Chatham town, Barnstable County",96.5,1.5
+0400000US25,25,Massachusetts,0600000US2501713135,2501713135,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chelmsford town, Middlesex County","Chelmsford town, Middlesex County",95.9,0.8
+0400000US25,25,Massachusetts,1600000US2513205,2513205,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chelsea city, Suffolk County","Chelsea city, Suffolk County",67.2,2.4
+0400000US25,25,Massachusetts,1600000US2513310,2513310,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Cheshire CDP, Berkshire County","Cheshire CDP, Berkshire County",90.1,7.4
+0400000US25,25,Massachusetts,0600000US2500313345,2500313345,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Cheshire town, Berkshire County","Cheshire town, Berkshire County",93.7,2.4
+0400000US25,25,Massachusetts,1600000US2513450,2513450,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chester CDP, Hampden County","Chester CDP, Hampden County",93.3,3.5
+0400000US25,25,Massachusetts,0600000US2501313485,2501313485,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chester town, Hampden County","Chester town, Hampden County",93.1,3.2
+0400000US25,25,Massachusetts,0600000US2501513590,2501513590,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chesterfield town, Hampshire County","Chesterfield town, Hampshire County",91.3,6.6
+0400000US25,25,Massachusetts,1600000US2513660,2513660,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chicopee city, Hampden County","Chicopee city, Hampden County",85.3,1.4
+0400000US25,25,Massachusetts,0600000US2500713800,2500713800,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Chilmark town, Dukes County","Chilmark town, Dukes County",99.7,0.6
+0400000US25,25,Massachusetts,0600000US2500314010,2500314010,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Clarksburg town, Berkshire County","Clarksburg town, Berkshire County",93.8,1.9
+0400000US25,25,Massachusetts,0600000US2502714395,2502714395,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Clinton town, Worcester County","Clinton town, Worcester County",90.3,2.3
+0400000US25,25,Massachusetts,1600000US2514430,2514430,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Clinton CDP, Worcester County","Clinton CDP, Worcester County",85.6,3.9
+0400000US25,25,Massachusetts,1600000US2514570,2514570,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Cochituate CDP, Middlesex County","Cochituate CDP, Middlesex County",98.1,0.9
+0400000US25,25,Massachusetts,0600000US2502114640,2502114640,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Cohasset town, Norfolk County","Cohasset town, Norfolk County",97.1,1.8
+0400000US25,25,Massachusetts,0600000US2501114885,2501114885,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Colrain town, Franklin County","Colrain town, Franklin County",91.7,2.6
+0400000US25,25,Massachusetts,0600000US2501715060,2501715060,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Concord town, Middlesex County","Concord town, Middlesex County",93.7,1.5
+0400000US25,25,Massachusetts,0600000US2501115200,2501115200,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Conway town, Franklin County","Conway town, Franklin County",99.2,0.9
+0400000US25,25,Massachusetts,1600000US2515340,2515340,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Cordaville CDP, Worcester County","Cordaville CDP, Worcester County",97,2.5
+0400000US25,25,Massachusetts,0600000US2501516040,2501516040,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Cummington town, Hampshire County","Cummington town, Hampshire County",96.9,1.4
+0400000US25,25,Massachusetts,0600000US2500316180,2500316180,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dalton town, Berkshire County","Dalton town, Berkshire County",96.2,2.1
+0400000US25,25,Massachusetts,0600000US2500916250,2500916250,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Danvers town, Essex County","Danvers town, Essex County",94.3,1.3
+0400000US25,25,Massachusetts,1600000US2516285,2516285,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Danvers CDP, Essex County","Danvers CDP, Essex County",94.3,1.3
+0400000US25,25,Massachusetts,0600000US2500516425,2500516425,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dartmouth town, Bristol County","Dartmouth town, Bristol County",83.4,2
+0400000US25,25,Massachusetts,0600000US2502116495,2502116495,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dedham town, Norfolk County","Dedham town, Norfolk County",93.7,1.3
+0400000US25,25,Massachusetts,1600000US2516530,2516530,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dedham CDP, Norfolk County","Dedham CDP, Norfolk County",93.7,1.3
+0400000US25,25,Massachusetts,1600000US2516635,2516635,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Deerfield CDP, Franklin County","Deerfield CDP, Franklin County",99.4,1.5
+0400000US25,25,Massachusetts,0600000US2501116670,2501116670,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Deerfield town, Franklin County","Deerfield town, Franklin County",97.1,2
+0400000US25,25,Massachusetts,1600000US2516740,2516740,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dennis CDP, Barnstable County","Dennis CDP, Barnstable County",96.8,2.2
+0400000US25,25,Massachusetts,0600000US2500116775,2500116775,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dennis town, Barnstable County","Dennis town, Barnstable County",95.6,1.6
+0400000US25,25,Massachusetts,1600000US2516810,2516810,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dennis Port CDP, Barnstable County","Dennis Port CDP, Barnstable County",97.2,2.4
+0400000US25,25,Massachusetts,1600000US2516840,2516840,Massachusetts - PLACE AND COUNTY SUBDIVISION - Devens CDP,Devens CDP,93.6,3.6
+0400000US25,25,Massachusetts,0600000US2500516950,2500516950,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dighton town, Bristol County","Dighton town, Bristol County",94.2,2.2
+0400000US25,25,Massachusetts,0600000US2502717300,2502717300,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Douglas town, Worcester County","Douglas town, Worcester County",96.4,1.9
+0400000US25,25,Massachusetts,1600000US2517370,2517370,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dover CDP, Norfolk County","Dover CDP, Norfolk County",99.2,1.5
+0400000US25,25,Massachusetts,0600000US2502117405,2502117405,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dover town, Norfolk County","Dover town, Norfolk County",98.5,1.4
+0400000US25,25,Massachusetts,0600000US2501717475,2501717475,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dracut town, Middlesex County","Dracut town, Middlesex County",91.4,1.9
+0400000US25,25,Massachusetts,0600000US2502717685,2502717685,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dudley town, Worcester County","Dudley town, Worcester County",90.6,2.3
+0400000US25,25,Massachusetts,0600000US2501717825,2501717825,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Dunstable town, Middlesex County","Dunstable town, Middlesex County",96.5,1.3
+0400000US25,25,Massachusetts,1600000US2517860,2517860,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Duxbury CDP, Plymouth County","Duxbury CDP, Plymouth County",99.2,1.3
+0400000US25,25,Massachusetts,0600000US2502317895,2502317895,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Duxbury town, Plymouth County","Duxbury town, Plymouth County",98.8,0.6
+0400000US25,25,Massachusetts,0600000US2502318455,2502318455,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Bridgewater town, Plymouth County","East Bridgewater town, Plymouth County",94.4,1.5
+0400000US25,25,Massachusetts,0600000US2502718560,2502718560,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Brookfield town, Worcester County","East Brookfield town, Worcester County",92.3,3.6
+0400000US25,25,Massachusetts,1600000US2518595,2518595,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Brookfield CDP, Worcester County","East Brookfield CDP, Worcester County",92.1,4.9
+0400000US25,25,Massachusetts,1600000US2518840,2518840,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Dennis CDP, Barnstable County","East Dennis CDP, Barnstable County",95.6,3.5
+0400000US25,25,Massachusetts,1600000US2518875,2518875,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Douglas CDP, Worcester County","East Douglas CDP, Worcester County",94.6,4.5
+0400000US25,25,Massachusetts,1600000US2518980,2518980,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Falmouth CDP, Barnstable County","East Falmouth CDP, Barnstable County",89.2,5.2
+0400000US25,25,Massachusetts,0600000US2500119295,2500119295,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Eastham town, Barnstable County","Eastham town, Barnstable County",96.4,1.3
+0400000US25,25,Massachusetts,1600000US2519370,2519370,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Easthampton Town city, Hampshire County","Easthampton Town city, Hampshire County",94.7,1.7
+0400000US25,25,Massachusetts,1600000US2519400,2519400,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Harwich CDP, Barnstable County","East Harwich CDP, Barnstable County",92.7,3.2
+0400000US25,25,Massachusetts,0600000US2501319645,2501319645,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Longmeadow town, Hampden County","East Longmeadow town, Hampden County",94.6,1.3
+0400000US25,25,Massachusetts,0600000US2500520100,2500520100,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Easton town, Bristol County","Easton town, Bristol County",96.3,0.8
+0400000US25,25,Massachusetts,1600000US2520310,2520310,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Pepperell CDP, Middlesex County","East Pepperell CDP, Middlesex County",94.4,3.5
+0400000US25,25,Massachusetts,1600000US2520380,2520380,"Massachusetts - PLACE AND COUNTY SUBDIVISION - East Sandwich CDP, Barnstable County","East Sandwich CDP, Barnstable County",98.8,0.9
+0400000US25,25,Massachusetts,1600000US2521115,2521115,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Edgartown CDP, Dukes County","Edgartown CDP, Dukes County",97.1,2.8
+0400000US25,25,Massachusetts,0600000US2500721150,2500721150,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Edgartown town, Dukes County","Edgartown town, Dukes County",81.1,13.6
+0400000US25,25,Massachusetts,0600000US2500321360,2500321360,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Egremont town, Berkshire County","Egremont town, Berkshire County",93.8,4
+0400000US25,25,Massachusetts,0600000US2501121780,2501121780,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Erving town, Franklin County","Erving town, Franklin County",93.8,1.9
+0400000US25,25,Massachusetts,1600000US2521815,2521815,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Essex CDP, Essex County","Essex CDP, Essex County",98.6,1.5
+0400000US25,25,Massachusetts,0600000US2500921850,2500921850,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Essex town, Essex County","Essex town, Essex County",97.4,1.7
+0400000US25,25,Massachusetts,1600000US2521990,2521990,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Everett city, Middlesex County","Everett city, Middlesex County",80.8,2
+0400000US25,25,Massachusetts,0600000US2500522130,2500522130,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Fairhaven town, Bristol County","Fairhaven town, Bristol County",88.8,1.9
+0400000US25,25,Massachusetts,1600000US2523000,2523000,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Fall River city, Bristol County","Fall River city, Bristol County",72.1,1.3
+0400000US25,25,Massachusetts,1600000US2523070,2523070,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Falmouth CDP, Barnstable County","Falmouth CDP, Barnstable County",94.9,2.2
+0400000US25,25,Massachusetts,0600000US2500123105,2500123105,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Falmouth town, Barnstable County","Falmouth town, Barnstable County",94.3,1.2
+0400000US25,25,Massachusetts,1600000US2523840,2523840,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Fiskdale CDP, Worcester County","Fiskdale CDP, Worcester County",97.9,3.4
+0400000US25,25,Massachusetts,1600000US2523875,2523875,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Fitchburg city, Worcester County","Fitchburg city, Worcester County",82.2,1.9
+0400000US25,25,Massachusetts,0600000US2500324120,2500324120,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Florida town, Berkshire County","Florida town, Berkshire County",89.3,4.9
+0400000US25,25,Massachusetts,1600000US2524190,2524190,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Forestdale CDP, Barnstable County","Forestdale CDP, Barnstable County",98.8,1.4
+0400000US25,25,Massachusetts,0600000US2502124820,2502124820,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Foxborough town, Norfolk County","Foxborough town, Norfolk County",94.9,2.2
+0400000US25,25,Massachusetts,1600000US2524855,2524855,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Foxborough CDP, Norfolk County","Foxborough CDP, Norfolk County",90.4,5.7
+0400000US25,25,Massachusetts,0600000US2501724925,2501724925,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Framingham town, Middlesex County","Framingham town, Middlesex County",89.3,1.2
+0400000US25,25,Massachusetts,1600000US2524960,2524960,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Framingham CDP, Middlesex County","Framingham CDP, Middlesex County",89.3,1.2
+0400000US25,25,Massachusetts,1600000US2525172,2525172,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Franklin Town city, Norfolk County","Franklin Town city, Norfolk County",96,1.2
+0400000US25,25,Massachusetts,0600000US2500525240,2500525240,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Freetown town, Bristol County","Freetown town, Bristol County",87.8,3.2
+0400000US25,25,Massachusetts,1600000US2525485,2525485,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Gardner city, Worcester County","Gardner city, Worcester County",86.3,1.8
+0400000US25,25,Massachusetts,0600000US2500925625,2500925625,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Georgetown town, Essex County","Georgetown town, Essex County",97.3,1.1
+0400000US25,25,Massachusetts,0600000US2501125730,2501125730,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Gill town, Franklin County","Gill town, Franklin County",97.2,1.6
+0400000US25,25,Massachusetts,1600000US2526150,2526150,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Gloucester city, Essex County","Gloucester city, Essex County",89.9,1.5
+0400000US25,25,Massachusetts,0600000US2501526290,2501526290,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Goshen town, Hampshire County","Goshen town, Hampshire County",95.8,2.9
+0400000US25,25,Massachusetts,0600000US2500726325,2500726325,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Gosnold town, Dukes County","Gosnold town, Dukes County",100,42.4
+0400000US25,25,Massachusetts,0600000US2502726430,2502726430,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Grafton town, Worcester County","Grafton town, Worcester County",95.7,1.2
+0400000US25,25,Massachusetts,1600000US2526500,2526500,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Granby CDP, Hampshire County","Granby CDP, Hampshire County",89.9,8.5
+0400000US25,25,Massachusetts,0600000US2501526535,2501526535,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Granby town, Hampshire County","Granby town, Hampshire County",93.8,2.8
+0400000US25,25,Massachusetts,0600000US2501326675,2501326675,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Granville town, Hampden County","Granville town, Hampden County",96.7,1.5
+0400000US25,25,Massachusetts,1600000US2526780,2526780,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Great Barrington CDP, Berkshire County","Great Barrington CDP, Berkshire County",86.5,9.4
+0400000US25,25,Massachusetts,0600000US2500326815,2500326815,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Great Barrington town, Berkshire County","Great Barrington town, Berkshire County",90.4,4.2
+0400000US25,25,Massachusetts,1600000US2527100,2527100,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Greenfield Town city, Franklin County","Greenfield Town city, Franklin County",92.6,1.4
+0400000US25,25,Massachusetts,1600000US2527147,2527147,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Green Harbor-Cedar Crest CDP, Plymouth County","Green Harbor-Cedar Crest CDP, Plymouth County",93.7,4.5
+0400000US25,25,Massachusetts,1600000US2527445,2527445,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Groton CDP, Middlesex County","Groton CDP, Middlesex County",94.3,5.9
+0400000US25,25,Massachusetts,0600000US2501727480,2501727480,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Groton town, Middlesex County","Groton town, Middlesex County",98.7,0.8
+0400000US25,25,Massachusetts,0600000US2500927620,2500927620,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Groveland town, Essex County","Groveland town, Essex County",96.8,1.9
+0400000US25,25,Massachusetts,0600000US2501527690,2501527690,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hadley town, Hampshire County","Hadley town, Hampshire County",94.7,2.6
+0400000US25,25,Massachusetts,0600000US2502327795,2502327795,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Halifax town, Plymouth County","Halifax town, Plymouth County",97.2,1.7
+0400000US25,25,Massachusetts,0600000US2500927900,2500927900,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hamilton town, Essex County","Hamilton town, Essex County",97.9,0.9
+0400000US25,25,Massachusetts,0600000US2501328075,2501328075,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hampden town, Hampden County","Hampden town, Hampden County",93.1,2.7
+0400000US25,25,Massachusetts,0600000US2500328180,2500328180,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hancock town, Berkshire County","Hancock town, Berkshire County",95.9,2.5
+0400000US25,25,Massachusetts,0600000US2502328285,2502328285,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hanover town, Plymouth County","Hanover town, Plymouth County",95.9,1.6
+0400000US25,25,Massachusetts,1600000US2528425,2528425,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hanscom AFB CDP, Middlesex County","Hanscom AFB CDP, Middlesex County",99.9,0.5
+0400000US25,25,Massachusetts,1600000US2528460,2528460,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hanson CDP, Plymouth County","Hanson CDP, Plymouth County",97.4,2.2
+0400000US25,25,Massachusetts,0600000US2502328495,2502328495,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hanson town, Plymouth County","Hanson town, Plymouth County",94,2
+0400000US25,25,Massachusetts,0600000US2502728740,2502728740,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hardwick town, Worcester County","Hardwick town, Worcester County",92.9,2.7
+0400000US25,25,Massachusetts,0600000US2502728950,2502728950,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Harvard town, Worcester County","Harvard town, Worcester County",97.4,1.3
+0400000US25,25,Massachusetts,0600000US2500129020,2500129020,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Harwich town, Barnstable County","Harwich town, Barnstable County",94.6,1.6
+0400000US25,25,Massachusetts,1600000US2529055,2529055,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Harwich Center CDP, Barnstable County","Harwich Center CDP, Barnstable County",98.2,2.8
+0400000US25,25,Massachusetts,1600000US2529090,2529090,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Harwich Port CDP, Barnstable County","Harwich Port CDP, Barnstable County",97.9,1.6
+0400000US25,25,Massachusetts,1600000US2529230,2529230,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hatfield CDP, Hampshire County","Hatfield CDP, Hampshire County",98.5,1.6
+0400000US25,25,Massachusetts,0600000US2501529265,2501529265,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hatfield town, Hampshire County","Hatfield town, Hampshire County",97.8,1.4
+0400000US25,25,Massachusetts,1600000US2529405,2529405,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Haverhill city, Essex County","Haverhill city, Essex County",88.7,1.4
+0400000US25,25,Massachusetts,0600000US2501129475,2501129475,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hawley town, Franklin County","Hawley town, Franklin County",90.8,3.8
+0400000US25,25,Massachusetts,0600000US2501129650,2501129650,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Heath town, Franklin County","Heath town, Franklin County",94.1,2.6
+0400000US25,25,Massachusetts,1600000US2530175,2530175,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hingham CDP, Plymouth County","Hingham CDP, Plymouth County",98.2,1.3
+0400000US25,25,Massachusetts,0600000US2502330210,2502330210,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hingham town, Plymouth County","Hingham town, Plymouth County",97.8,0.8
+0400000US25,25,Massachusetts,0600000US2500330315,2500330315,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hinsdale town, Berkshire County","Hinsdale town, Berkshire County",90.1,5.6
+0400000US25,25,Massachusetts,1600000US2530420,2530420,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Holbrook CDP, Norfolk County","Holbrook CDP, Norfolk County",95.9,1.7
+0400000US25,25,Massachusetts,0600000US2502130455,2502130455,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Holbrook town, Norfolk County","Holbrook town, Norfolk County",95.9,1.7
+0400000US25,25,Massachusetts,0600000US2502730560,2502730560,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Holden town, Worcester County","Holden town, Worcester County",96.1,1.2
+0400000US25,25,Massachusetts,1600000US2530630,2530630,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Holland CDP, Hampden County","Holland CDP, Hampden County",94.5,2.8
+0400000US25,25,Massachusetts,0600000US2501330665,2501330665,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Holland town, Hampden County","Holland town, Hampden County",94.6,2
+0400000US25,25,Massachusetts,0600000US2501730700,2501730700,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Holliston town, Middlesex County","Holliston town, Middlesex County",96.9,1.2
+0400000US25,25,Massachusetts,1600000US2530840,2530840,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Holyoke city, Hampden County","Holyoke city, Hampden County",79.2,1.7
+0400000US25,25,Massachusetts,0600000US2502730945,2502730945,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hopedale town, Worcester County","Hopedale town, Worcester County",92.3,2.8
+0400000US25,25,Massachusetts,1600000US2530980,2530980,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hopedale CDP, Worcester County","Hopedale CDP, Worcester County",94,3.2
+0400000US25,25,Massachusetts,1600000US2531050,2531050,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hopkinton CDP, Middlesex County","Hopkinton CDP, Middlesex County",96.8,2.2
+0400000US25,25,Massachusetts,0600000US2501731085,2501731085,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hopkinton town, Middlesex County","Hopkinton town, Middlesex County",98,0.8
+0400000US25,25,Massachusetts,1600000US2531295,2531295,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Housatonic CDP, Berkshire County","Housatonic CDP, Berkshire County",95.4,6.5
+0400000US25,25,Massachusetts,0600000US2502731435,2502731435,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hubbardston town, Worcester County","Hubbardston town, Worcester County",94.1,2.5
+0400000US25,25,Massachusetts,0600000US2501731540,2501731540,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hudson town, Middlesex County","Hudson town, Middlesex County",90.6,2.3
+0400000US25,25,Massachusetts,1600000US2531575,2531575,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hudson CDP, Middlesex County","Hudson CDP, Middlesex County",89.5,2.7
+0400000US25,25,Massachusetts,0600000US2502331645,2502331645,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hull town, Plymouth County","Hull town, Plymouth County",97.2,1.2
+0400000US25,25,Massachusetts,1600000US2531680,2531680,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Hull CDP, Plymouth County","Hull CDP, Plymouth County",97.2,1.2
+0400000US25,25,Massachusetts,1600000US2531750,2531750,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Huntington CDP, Hampshire County","Huntington CDP, Hampshire County",91.4,5.3
+0400000US25,25,Massachusetts,0600000US2501531785,2501531785,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Huntington town, Hampshire County","Huntington town, Hampshire County",94.2,2.7
+0400000US25,25,Massachusetts,1600000US2532275,2532275,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ipswich CDP, Essex County","Ipswich CDP, Essex County",93.5,2.9
+0400000US25,25,Massachusetts,0600000US2500932310,2500932310,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ipswich town, Essex County","Ipswich town, Essex County",96.6,1.2
+0400000US25,25,Massachusetts,1600000US2533185,2533185,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Kingston CDP, Plymouth County","Kingston CDP, Plymouth County",94.9,4
+0400000US25,25,Massachusetts,0600000US2502333220,2502333220,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Kingston town, Plymouth County","Kingston town, Plymouth County",95,2.9
+0400000US25,25,Massachusetts,0600000US2502333920,2502333920,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lakeville town, Plymouth County","Lakeville town, Plymouth County",93.4,1.7
+0400000US25,25,Massachusetts,0600000US2502734165,2502734165,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lancaster town, Worcester County","Lancaster town, Worcester County",89.5,2.6
+0400000US25,25,Massachusetts,0600000US2500334340,2500334340,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lanesborough town, Berkshire County","Lanesborough town, Berkshire County",96.5,2.6
+0400000US25,25,Massachusetts,1600000US2534550,2534550,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lawrence city, Essex County","Lawrence city, Essex County",67.5,1.4
+0400000US25,25,Massachusetts,1600000US2534620,2534620,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lee CDP, Berkshire County","Lee CDP, Berkshire County",90.5,5.1
+0400000US25,25,Massachusetts,0600000US2500334655,2500334655,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lee town, Berkshire County","Lee town, Berkshire County",88.8,3.5
+0400000US25,25,Massachusetts,0600000US2502734795,2502734795,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Leicester town, Worcester County","Leicester town, Worcester County",89.2,3
+0400000US25,25,Massachusetts,1600000US2534935,2534935,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lenox CDP, Berkshire County","Lenox CDP, Berkshire County",94.9,4.1
+0400000US25,25,Massachusetts,0600000US2500334970,2500334970,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lenox town, Berkshire County","Lenox town, Berkshire County",94.7,3
+0400000US25,25,Massachusetts,1600000US2535075,2535075,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Leominster city, Worcester County","Leominster city, Worcester County",86.8,1.7
+0400000US25,25,Massachusetts,0600000US2501135180,2501135180,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Leverett town, Franklin County","Leverett town, Franklin County",96.7,1.2
+0400000US25,25,Massachusetts,0600000US2501735215,2501735215,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lexington town, Middlesex County","Lexington town, Middlesex County",97.3,0.6
+0400000US25,25,Massachusetts,1600000US2535250,2535250,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lexington CDP, Middlesex County","Lexington CDP, Middlesex County",97.3,0.6
+0400000US25,25,Massachusetts,0600000US2501135285,2501135285,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Leyden town, Franklin County","Leyden town, Franklin County",97.1,2
+0400000US25,25,Massachusetts,0600000US2501735425,2501735425,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lincoln town, Middlesex County","Lincoln town, Middlesex County",98.6,1.5
+0400000US25,25,Massachusetts,0600000US2501735950,2501735950,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Littleton town, Middlesex County","Littleton town, Middlesex County",97.3,1.5
+0400000US25,25,Massachusetts,1600000US2536020,2536020,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Littleton Common CDP, Middlesex County","Littleton Common CDP, Middlesex County",93.1,4.2
+0400000US25,25,Massachusetts,0600000US2501336300,2501336300,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Longmeadow town, Hampden County","Longmeadow town, Hampden County",95.1,1.6
+0400000US25,25,Massachusetts,1600000US2536335,2536335,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Longmeadow CDP, Hampden County","Longmeadow CDP, Hampden County",95.1,1.6
+0400000US25,25,Massachusetts,1600000US2537000,2537000,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lowell city, Middlesex County","Lowell city, Middlesex County",79.7,1.1
+0400000US25,25,Massachusetts,0600000US2501337175,2501337175,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ludlow town, Hampden County","Ludlow town, Hampden County",83.5,2.1
+0400000US25,25,Massachusetts,1600000US2537385,2537385,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lunenburg CDP, Worcester County","Lunenburg CDP, Worcester County",90.7,5.2
+0400000US25,25,Massachusetts,0600000US2502737420,2502737420,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lunenburg town, Worcester County","Lunenburg town, Worcester County",92.9,2
+0400000US25,25,Massachusetts,1600000US2537490,2537490,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lynn city, Essex County","Lynn city, Essex County",79.3,1
+0400000US25,25,Massachusetts,0600000US2500937560,2500937560,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lynnfield town, Essex County","Lynnfield town, Essex County",96.4,1.6
+0400000US25,25,Massachusetts,1600000US2537595,2537595,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Lynnfield CDP, Essex County","Lynnfield CDP, Essex County",96.4,1.6
+0400000US25,25,Massachusetts,1600000US2537735,2537735,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Madaket CDP, Nantucket County","Madaket CDP, Nantucket County",100,12.8
+0400000US25,25,Massachusetts,1600000US2537875,2537875,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Malden city, Middlesex County","Malden city, Middlesex County",86,1.7
+0400000US25,25,Massachusetts,0600000US2500937995,2500937995,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Manchester-by-the-Sea town, Essex County","Manchester-by-the-Sea town, Essex County",96.4,2.6
+0400000US25,25,Massachusetts,0600000US2500538225,2500538225,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Mansfield town, Bristol County","Mansfield town, Bristol County",97.3,0.8
+0400000US25,25,Massachusetts,1600000US2538230,2538230,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Mansfield Center CDP, Bristol County","Mansfield Center CDP, Bristol County",96.5,1.4
+0400000US25,25,Massachusetts,0600000US2500938400,2500938400,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Marblehead town, Essex County","Marblehead town, Essex County",97.3,0.8
+0400000US25,25,Massachusetts,1600000US2538435,2538435,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Marblehead CDP, Essex County","Marblehead CDP, Essex County",97.3,0.8
+0400000US25,25,Massachusetts,0600000US2502338540,2502338540,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Marion town, Plymouth County","Marion town, Plymouth County",93.6,3
+0400000US25,25,Massachusetts,1600000US2538575,2538575,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Marion Center CDP, Plymouth County","Marion Center CDP, Plymouth County",94.3,7
+0400000US25,25,Massachusetts,1600000US2538715,2538715,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Marlborough city, Middlesex County","Marlborough city, Middlesex County",88.8,2.4
+0400000US25,25,Massachusetts,1600000US2538820,2538820,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Marshfield CDP, Plymouth County","Marshfield CDP, Plymouth County",94.7,2.8
+0400000US25,25,Massachusetts,0600000US2502338855,2502338855,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Marshfield town, Plymouth County","Marshfield town, Plymouth County",95.5,1.2
+0400000US25,25,Massachusetts,1600000US2538960,2538960,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Marshfield Hills CDP, Plymouth County","Marshfield Hills CDP, Plymouth County",96,3.9
+0400000US25,25,Massachusetts,0600000US2500139100,2500139100,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Mashpee town, Barnstable County","Mashpee town, Barnstable County",95.2,1.5
+0400000US25,25,Massachusetts,1600000US2539152,2539152,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Mashpee Neck CDP, Barnstable County","Mashpee Neck CDP, Barnstable County",100,4.8
+0400000US25,25,Massachusetts,0600000US2502339450,2502339450,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Mattapoisett town, Plymouth County","Mattapoisett town, Plymouth County",96.2,2.2
+0400000US25,25,Massachusetts,1600000US2539485,2539485,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Mattapoisett Center CDP, Plymouth County","Mattapoisett Center CDP, Plymouth County",97.3,2.7
+0400000US25,25,Massachusetts,0600000US2501739625,2501739625,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Maynard town, Middlesex County","Maynard town, Middlesex County",96.9,1.4
+0400000US25,25,Massachusetts,1600000US2539660,2539660,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Maynard CDP, Middlesex County","Maynard CDP, Middlesex County",96.9,1.4
+0400000US25,25,Massachusetts,1600000US2539730,2539730,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Medfield CDP, Norfolk County","Medfield CDP, Norfolk County",97.6,1.7
+0400000US25,25,Massachusetts,0600000US2502139765,2502139765,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Medfield town, Norfolk County","Medfield town, Norfolk County",98.6,1
+0400000US25,25,Massachusetts,1600000US2539835,2539835,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Medford city, Middlesex County","Medford city, Middlesex County",92,1.1
+0400000US25,25,Massachusetts,0600000US2502139975,2502139975,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Medway town, Norfolk County","Medway town, Norfolk County",95.4,1.3
+0400000US25,25,Massachusetts,1600000US2540115,2540115,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Melrose city, Middlesex County","Melrose city, Middlesex County",94.6,1.3
+0400000US25,25,Massachusetts,0600000US2502740255,2502740255,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Mendon town, Worcester County","Mendon town, Worcester County",96.5,1.7
+0400000US25,25,Massachusetts,0600000US2500940430,2500940430,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Merrimac town, Essex County","Merrimac town, Essex County",95.2,3
+0400000US25,25,Massachusetts,1600000US2540710,2540710,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Methuen Town city, Essex County","Methuen Town city, Essex County",88.6,1.4
+0400000US25,25,Massachusetts,0600000US2502340850,2502340850,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Middleborough town, Plymouth County","Middleborough town, Plymouth County",95.1,1.2
+0400000US25,25,Massachusetts,1600000US2540885,2540885,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Middleborough Center CDP, Plymouth County","Middleborough Center CDP, Plymouth County",93.9,2.4
+0400000US25,25,Massachusetts,0600000US2501540990,2501540990,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Middlefield town, Hampshire County","Middlefield town, Hampshire County",96.9,3
+0400000US25,25,Massachusetts,0600000US2500941095,2500941095,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Middleton town, Essex County","Middleton town, Essex County",91.5,3
+0400000US25,25,Massachusetts,0600000US2502741165,2502741165,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Milford town, Worcester County","Milford town, Worcester County",92.1,1.6
+0400000US25,25,Massachusetts,1600000US2541200,2541200,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Milford CDP, Worcester County","Milford CDP, Worcester County",91.3,1.8
+0400000US25,25,Massachusetts,0600000US2502741340,2502741340,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Millbury town, Worcester County","Millbury town, Worcester County",92.2,2.5
+0400000US25,25,Massachusetts,1600000US2541410,2541410,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Millers Falls CDP, Franklin County","Millers Falls CDP, Franklin County",93.7,4.1
+0400000US25,25,Massachusetts,0600000US2502141515,2502141515,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Millis town, Norfolk County","Millis town, Norfolk County",97.5,1.5
+0400000US25,25,Massachusetts,1600000US2541532,2541532,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Millis-Clicquot CDP, Norfolk County","Millis-Clicquot CDP, Norfolk County",96.6,2.6
+0400000US25,25,Massachusetts,0600000US2502741585,2502741585,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Millville town, Worcester County","Millville town, Worcester County",89.1,4.5
+0400000US25,25,Massachusetts,0600000US2502141690,2502141690,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Milton town, Norfolk County","Milton town, Norfolk County",95.9,1.2
+0400000US25,25,Massachusetts,1600000US2541725,2541725,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Milton CDP, Norfolk County","Milton CDP, Norfolk County",95.9,1.2
+0400000US25,25,Massachusetts,1600000US2541960,2541960,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Monomoscoy Island CDP, Barnstable County","Monomoscoy Island CDP, Barnstable County",89.8,18.9
+0400000US25,25,Massachusetts,0600000US2501142040,2501142040,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Monroe town, Franklin County","Monroe town, Franklin County",95.8,4.6
+0400000US25,25,Massachusetts,0600000US2501342145,2501342145,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Monson town, Hampden County","Monson town, Hampden County",92,2
+0400000US25,25,Massachusetts,1600000US2542180,2542180,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Monson Center CDP, Hampden County","Monson Center CDP, Hampden County",89.8,4.7
+0400000US25,25,Massachusetts,0600000US2501142285,2501142285,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Montague town, Franklin County","Montague town, Franklin County",88.5,3.1
+0400000US25,25,Massachusetts,0600000US2500342460,2500342460,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Monterey town, Berkshire County","Monterey town, Berkshire County",95.9,4.3
+0400000US25,25,Massachusetts,0600000US2501342530,2501342530,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Montgomery town, Hampden County","Montgomery town, Hampden County",97,1.6
+0400000US25,25,Massachusetts,1600000US2542670,2542670,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Monument Beach CDP, Barnstable County","Monument Beach CDP, Barnstable County",98.4,1.8
+0400000US25,25,Massachusetts,0600000US2500343300,2500343300,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Mount Washington town, Berkshire County","Mount Washington town, Berkshire County",98.7,2.1
+0400000US25,25,Massachusetts,0600000US2500943580,2500943580,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Nahant town, Essex County","Nahant town, Essex County",97.6,1.5
+0400000US25,25,Massachusetts,1600000US2543615,2543615,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Nahant CDP, Essex County","Nahant CDP, Essex County",97.6,1.5
+0400000US25,25,Massachusetts,1600000US2543755,2543755,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Nantucket CDP, Nantucket County","Nantucket CDP, Nantucket County",93.6,2.4
+0400000US25,25,Massachusetts,0600000US2501943790,2501943790,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Nantucket town, Nantucket County","Nantucket town, Nantucket County",94.7,1.8
+0400000US25,25,Massachusetts,0600000US2501743895,2501743895,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Natick town, Middlesex County","Natick town, Middlesex County",96.9,0.8
+0400000US25,25,Massachusetts,0600000US2502144105,2502144105,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Needham town, Norfolk County","Needham town, Norfolk County",98,0.6
+0400000US25,25,Massachusetts,1600000US2544140,2544140,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Needham CDP, Norfolk County","Needham CDP, Norfolk County",98,0.6
+0400000US25,25,Massachusetts,0600000US2500344385,2500344385,"Massachusetts - PLACE AND COUNTY SUBDIVISION - New Ashford town, Berkshire County","New Ashford town, Berkshire County",92.8,5.2
+0400000US25,25,Massachusetts,1600000US2545000,2545000,"Massachusetts - PLACE AND COUNTY SUBDIVISION - New Bedford city, Bristol County","New Bedford city, Bristol County",72.6,1.3
+0400000US25,25,Massachusetts,0600000US2502745105,2502745105,"Massachusetts - PLACE AND COUNTY SUBDIVISION - New Braintree town, Worcester County","New Braintree town, Worcester County",93.9,2.7
+0400000US25,25,Massachusetts,0600000US2500945175,2500945175,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Newbury town, Essex County","Newbury town, Essex County",96.7,1.7
+0400000US25,25,Massachusetts,1600000US2545245,2545245,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Newburyport city, Essex County","Newburyport city, Essex County",96.7,1.3
+0400000US25,25,Massachusetts,0600000US2500345420,2500345420,"Massachusetts - PLACE AND COUNTY SUBDIVISION - New Marlborough town, Berkshire County","New Marlborough town, Berkshire County",93.7,2.4
+0400000US25,25,Massachusetts,0600000US2501145490,2501145490,"Massachusetts - PLACE AND COUNTY SUBDIVISION - New Salem town, Franklin County","New Salem town, Franklin County",94.8,3.3
+0400000US25,25,Massachusetts,1600000US2545500,2545500,"Massachusetts - PLACE AND COUNTY SUBDIVISION - New Seabury CDP, Barnstable County","New Seabury CDP, Barnstable County",100,4
+0400000US25,25,Massachusetts,1600000US2545560,2545560,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Newton city, Middlesex County","Newton city, Middlesex County",97.1,0.5
+0400000US25,25,Massachusetts,0600000US2502146050,2502146050,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Norfolk town, Norfolk County","Norfolk town, Norfolk County",90.2,1.6
+0400000US25,25,Massachusetts,1600000US2546225,2546225,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Adams city, Berkshire County","North Adams city, Berkshire County",83.4,3.4
+0400000US25,25,Massachusetts,1600000US2546295,2546295,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Amherst CDP, Hampshire County","North Amherst CDP, Hampshire County",96.3,3.4
+0400000US25,25,Massachusetts,1600000US2546330,2546330,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Northampton city, Hampshire County","Northampton city, Hampshire County",94.9,0.9
+0400000US25,25,Massachusetts,0600000US2500946365,2500946365,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Andover town, Essex County","North Andover town, Essex County",96.7,1
+0400000US25,25,Massachusetts,0600000US2500546575,2500546575,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Attleborough town, Bristol County","North Attleborough town, Bristol County",94.2,1.4
+0400000US25,25,Massachusetts,1600000US2546785,2546785,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Northborough CDP, Worcester County","Northborough CDP, Worcester County",93.4,2.5
+0400000US25,25,Massachusetts,0600000US2502746820,2502746820,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Northborough town, Worcester County","Northborough town, Worcester County",95.7,1.3
+0400000US25,25,Massachusetts,0600000US2502746925,2502746925,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Northbridge town, Worcester County","Northbridge town, Worcester County",92,2.5
+0400000US25,25,Massachusetts,1600000US2547100,2547100,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Brookfield CDP, Worcester County","North Brookfield CDP, Worcester County",91,3.6
+0400000US25,25,Massachusetts,0600000US2502747135,2502747135,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Brookfield town, Worcester County","North Brookfield town, Worcester County",93.3,2.2
+0400000US25,25,Massachusetts,1600000US2547590,2547590,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Eastham CDP, Barnstable County","North Eastham CDP, Barnstable County",96.1,2
+0400000US25,25,Massachusetts,1600000US2547730,2547730,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Falmouth CDP, Barnstable County","North Falmouth CDP, Barnstable County",93.7,6.8
+0400000US25,25,Massachusetts,1600000US2547800,2547800,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Northfield CDP, Franklin County","Northfield CDP, Franklin County",90.7,6
+0400000US25,25,Massachusetts,0600000US2501147835,2501147835,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Northfield town, Franklin County","Northfield town, Franklin County",94.2,3
+0400000US25,25,Massachusetts,1600000US2548220,2548220,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Lakeville CDP, Plymouth County","North Lakeville CDP, Plymouth County",92.4,3.7
+0400000US25,25,Massachusetts,1600000US2548710,2548710,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Pembroke CDP, Plymouth County","North Pembroke CDP, Plymouth County",97.1,2.8
+0400000US25,25,Massachusetts,1600000US2548780,2548780,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Plymouth CDP, Plymouth County","North Plymouth CDP, Plymouth County",89.1,4.3
+0400000US25,25,Massachusetts,0600000US2501748955,2501748955,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Reading town, Middlesex County","North Reading town, Middlesex County",97.1,1.1
+0400000US25,25,Massachusetts,1600000US2549165,2549165,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Scituate CDP, Plymouth County","North Scituate CDP, Plymouth County",98.5,1.5
+0400000US25,25,Massachusetts,1600000US2549200,2549200,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Seekonk CDP, Bristol County","North Seekonk CDP, Bristol County",89.3,5.4
+0400000US25,25,Massachusetts,1600000US2549700,2549700,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Northwest Harwich CDP, Barnstable County","Northwest Harwich CDP, Barnstable County",94.1,2.6
+0400000US25,25,Massachusetts,1600000US2549710,2549710,"Massachusetts - PLACE AND COUNTY SUBDIVISION - North Westport CDP, Bristol County","North Westport CDP, Bristol County",81.8,5.9
+0400000US25,25,Massachusetts,0600000US2500549970,2500549970,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Norton town, Bristol County","Norton town, Bristol County",94.6,1.2
+0400000US25,25,Massachusetts,1600000US2550005,2550005,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Norton Center CDP, Bristol County","Norton Center CDP, Bristol County",90.7,6.1
+0400000US25,25,Massachusetts,0600000US2502350145,2502350145,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Norwell town, Plymouth County","Norwell town, Plymouth County",96.6,1.5
+0400000US25,25,Massachusetts,0600000US2502150250,2502150250,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Norwood town, Norfolk County","Norwood town, Norfolk County",94,1.1
+0400000US25,25,Massachusetts,1600000US2550285,2550285,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Norwood CDP, Norfolk County","Norwood CDP, Norfolk County",94,1.1
+0400000US25,25,Massachusetts,0600000US2500750390,2500750390,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Oak Bluffs town, Dukes County","Oak Bluffs town, Dukes County",97.1,3
+0400000US25,25,Massachusetts,0600000US2502750670,2502750670,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Oakham town, Worcester County","Oakham town, Worcester County",93.7,1.8
+0400000US25,25,Massachusetts,1600000US2550862,2550862,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ocean Bluff-Brant Rock CDP, Plymouth County","Ocean Bluff-Brant Rock CDP, Plymouth County",97.5,1.8
+0400000US25,25,Massachusetts,1600000US2550880,2550880,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ocean Grove CDP, Bristol County","Ocean Grove CDP, Bristol County",87.1,7.2
+0400000US25,25,Massachusetts,1600000US2551160,2551160,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Onset CDP, Plymouth County","Onset CDP, Plymouth County",87,13.2
+0400000US25,25,Massachusetts,1600000US2551230,2551230,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Orange CDP, Franklin County","Orange CDP, Franklin County",88.3,3.7
+0400000US25,25,Massachusetts,0600000US2501151265,2501151265,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Orange town, Franklin County","Orange town, Franklin County",88.1,3
+0400000US25,25,Massachusetts,1600000US2551405,2551405,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Orleans CDP, Barnstable County","Orleans CDP, Barnstable County",97.8,1.9
+0400000US25,25,Massachusetts,0600000US2500151440,2500151440,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Orleans town, Barnstable County","Orleans town, Barnstable County",97.9,1.3
+0400000US25,25,Massachusetts,0600000US2500351580,2500351580,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Otis town, Berkshire County","Otis town, Berkshire County",94.3,2.9
+0400000US25,25,Massachusetts,1600000US2551790,2551790,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Oxford CDP, Worcester County","Oxford CDP, Worcester County",91.7,3.9
+0400000US25,25,Massachusetts,0600000US2502751825,2502751825,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Oxford town, Worcester County","Oxford town, Worcester County",93,1.9
+0400000US25,25,Massachusetts,1600000US2552144,2552144,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Palmer Town city, Hampden County","Palmer Town city, Hampden County",91.5,2.3
+0400000US25,25,Massachusetts,0600000US2502752420,2502752420,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Paxton town, Worcester County","Paxton town, Worcester County",95.7,1.8
+0400000US25,25,Massachusetts,1600000US2552490,2552490,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Peabody city, Essex County","Peabody city, Essex County",90.7,1.1
+0400000US25,25,Massachusetts,0600000US2501552560,2501552560,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Pelham town, Hampshire County","Pelham town, Hampshire County",96.4,2.4
+0400000US25,25,Massachusetts,0600000US2502352630,2502352630,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Pembroke town, Plymouth County","Pembroke town, Plymouth County",95.2,1.6
+0400000US25,25,Massachusetts,1600000US2552770,2552770,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Pepperell CDP, Middlesex County","Pepperell CDP, Middlesex County",86.7,4.4
+0400000US25,25,Massachusetts,0600000US2501752805,2501752805,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Pepperell town, Middlesex County","Pepperell town, Middlesex County",93.5,1.8
+0400000US25,25,Massachusetts,0600000US2500353050,2500353050,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Peru town, Berkshire County","Peru town, Berkshire County",93.5,3.4
+0400000US25,25,Massachusetts,1600000US2553085,2553085,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Petersham CDP, Worcester County","Petersham CDP, Worcester County",100,15.7
+0400000US25,25,Massachusetts,0600000US2502753120,2502753120,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Petersham town, Worcester County","Petersham town, Worcester County",97.4,1.4
+0400000US25,25,Massachusetts,0600000US2502753225,2502753225,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Phillipston town, Worcester County","Phillipston town, Worcester County",93.3,1.8
+0400000US25,25,Massachusetts,1600000US2553680,2553680,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Pinehurst CDP, Middlesex County","Pinehurst CDP, Middlesex County",92.4,2
+0400000US25,25,Massachusetts,1600000US2553960,2553960,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Pittsfield city, Berkshire County","Pittsfield city, Berkshire County",89.8,1.1
+0400000US25,25,Massachusetts,0600000US2501554030,2501554030,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Plainfield town, Hampshire County","Plainfield town, Hampshire County",95,2.7
+0400000US25,25,Massachusetts,0600000US2502154100,2502154100,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Plainville town, Norfolk County","Plainville town, Norfolk County",95.9,1.7
+0400000US25,25,Massachusetts,1600000US2554275,2554275,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Plymouth CDP, Plymouth County","Plymouth CDP, Plymouth County",91.5,3.3
+0400000US25,25,Massachusetts,0600000US2502354310,2502354310,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Plymouth town, Plymouth County","Plymouth town, Plymouth County",95,0.8
+0400000US25,25,Massachusetts,0600000US2502354415,2502354415,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Plympton town, Plymouth County","Plympton town, Plymouth County",94.8,1.8
+0400000US25,25,Massachusetts,1600000US2554450,2554450,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Pocasset CDP, Barnstable County","Pocasset CDP, Barnstable County",98.5,1.8
+0400000US25,25,Massachusetts,1600000US2555070,2555070,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Popponesset CDP, Barnstable County","Popponesset CDP, Barnstable County",100,15.3
+0400000US25,25,Massachusetts,1600000US2555090,2555090,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Popponesset Island CDP, Barnstable County","Popponesset Island CDP, Barnstable County",100,93.8
+0400000US25,25,Massachusetts,0600000US2502755395,2502755395,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Princeton town, Worcester County","Princeton town, Worcester County",98.6,1
+0400000US25,25,Massachusetts,0600000US2500155500,2500155500,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Provincetown town, Barnstable County","Provincetown town, Barnstable County",93.3,3.3
+0400000US25,25,Massachusetts,1600000US2555535,2555535,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Provincetown CDP, Barnstable County","Provincetown CDP, Barnstable County",93.2,3.5
+0400000US25,25,Massachusetts,1600000US2555745,2555745,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Quincy city, Norfolk County","Quincy city, Norfolk County",89,0.9
+0400000US25,25,Massachusetts,0600000US2502155955,2502155955,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Randolph town, Norfolk County","Randolph town, Norfolk County",85.3,2.1
+0400000US25,25,Massachusetts,1600000US2555990,2555990,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Randolph CDP, Norfolk County","Randolph CDP, Norfolk County",85.3,2.1
+0400000US25,25,Massachusetts,0600000US2500556060,2500556060,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Raynham town, Bristol County","Raynham town, Bristol County",92.7,2.1
+0400000US25,25,Massachusetts,1600000US2556095,2556095,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Raynham Center CDP, Bristol County","Raynham Center CDP, Bristol County",91.1,4.9
+0400000US25,25,Massachusetts,0600000US2501756130,2501756130,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Reading town, Middlesex County","Reading town, Middlesex County",97,1
+0400000US25,25,Massachusetts,1600000US2556165,2556165,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Reading CDP, Middlesex County","Reading CDP, Middlesex County",97,1
+0400000US25,25,Massachusetts,0600000US2500556375,2500556375,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rehoboth town, Bristol County","Rehoboth town, Bristol County",94.1,2
+0400000US25,25,Massachusetts,1600000US2556585,2556585,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Revere city, Suffolk County","Revere city, Suffolk County",82.6,1.8
+0400000US25,25,Massachusetts,0600000US2500356795,2500356795,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Richmond town, Berkshire County","Richmond town, Berkshire County",95.4,2
+0400000US25,25,Massachusetts,0600000US2502357600,2502357600,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rochester town, Plymouth County","Rochester town, Plymouth County",94.7,2.2
+0400000US25,25,Massachusetts,0600000US2502357775,2502357775,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rockland town, Plymouth County","Rockland town, Plymouth County",94.2,1.9
+0400000US25,25,Massachusetts,1600000US2557845,2557845,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rockport CDP, Essex County","Rockport CDP, Essex County",97.3,1.5
+0400000US25,25,Massachusetts,0600000US2500957880,2500957880,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rockport town, Essex County","Rockport town, Essex County",97.5,1.2
+0400000US25,25,Massachusetts,0600000US2501158335,2501158335,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rowe town, Franklin County","Rowe town, Franklin County",94.4,2.6
+0400000US25,25,Massachusetts,1600000US2558370,2558370,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rowley CDP, Essex County","Rowley CDP, Essex County",97.8,2.6
+0400000US25,25,Massachusetts,0600000US2500958405,2500958405,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rowley town, Essex County","Rowley town, Essex County",96.4,2.2
+0400000US25,25,Massachusetts,0600000US2502758580,2502758580,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Royalston town, Worcester County","Royalston town, Worcester County",89.2,3.7
+0400000US25,25,Massachusetts,1600000US2558615,2558615,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Russell CDP, Hampden County","Russell CDP, Hampden County",94.9,4
+0400000US25,25,Massachusetts,0600000US2501358650,2501358650,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Russell town, Hampden County","Russell town, Hampden County",95.1,2.4
+0400000US25,25,Massachusetts,1600000US2558790,2558790,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rutland CDP, Worcester County","Rutland CDP, Worcester County",98.6,2
+0400000US25,25,Massachusetts,0600000US2502758825,2502758825,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Rutland town, Worcester County","Rutland town, Worcester County",98.8,1
+0400000US25,25,Massachusetts,1600000US2558965,2558965,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sagamore CDP, Barnstable County","Sagamore CDP, Barnstable County",97.5,2
+0400000US25,25,Massachusetts,1600000US2559105,2559105,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Salem city, Essex County","Salem city, Essex County",90.3,1.4
+0400000US25,25,Massachusetts,1600000US2559210,2559210,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Salisbury CDP, Essex County","Salisbury CDP, Essex County",93.3,2.6
+0400000US25,25,Massachusetts,0600000US2500959245,2500959245,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Salisbury town, Essex County","Salisbury town, Essex County",91.6,2.7
+0400000US25,25,Massachusetts,0600000US2500359665,2500359665,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sandisfield town, Berkshire County","Sandisfield town, Berkshire County",90,4
+0400000US25,25,Massachusetts,1600000US2559700,2559700,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sandwich CDP, Barnstable County","Sandwich CDP, Barnstable County",93,4.2
+0400000US25,25,Massachusetts,0600000US2500159735,2500159735,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sandwich town, Barnstable County","Sandwich town, Barnstable County",97.3,1
+0400000US25,25,Massachusetts,0600000US2500960015,2500960015,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Saugus town, Essex County","Saugus town, Essex County",90.3,1.3
+0400000US25,25,Massachusetts,1600000US2560050,2560050,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Saugus CDP, Essex County","Saugus CDP, Essex County",90.3,1.3
+0400000US25,25,Massachusetts,0600000US2500360225,2500360225,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Savoy town, Berkshire County","Savoy town, Berkshire County",86.4,3.8
+0400000US25,25,Massachusetts,1600000US2560295,2560295,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Scituate CDP, Plymouth County","Scituate CDP, Plymouth County",97.6,1.6
+0400000US25,25,Massachusetts,0600000US2502360330,2502360330,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Scituate town, Plymouth County","Scituate town, Plymouth County",97.6,0.7
+0400000US25,25,Massachusetts,1600000US2560505,2560505,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Seabrook CDP, Barnstable County","Seabrook CDP, Barnstable County",100,8.2
+0400000US25,25,Massachusetts,1600000US2560627,2560627,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Seconsett Island CDP, Barnstable County","Seconsett Island CDP, Barnstable County",100,64.7
+0400000US25,25,Massachusetts,0600000US2500560645,2500560645,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Seekonk town, Bristol County","Seekonk town, Bristol County",93.1,2.2
+0400000US25,25,Massachusetts,0600000US2502160785,2502160785,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sharon town, Norfolk County","Sharon town, Norfolk County",97.3,1.5
+0400000US25,25,Massachusetts,1600000US2560820,2560820,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sharon CDP, Norfolk County","Sharon CDP, Norfolk County",98.4,1.1
+0400000US25,25,Massachusetts,0600000US2500361065,2500361065,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sheffield town, Berkshire County","Sheffield town, Berkshire County",90.5,3.7
+0400000US25,25,Massachusetts,0600000US2501161135,2501161135,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Shelburne town, Franklin County","Shelburne town, Franklin County",92,3.4
+0400000US25,25,Massachusetts,1600000US2561205,2561205,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Shelburne Falls CDP, Franklin County","Shelburne Falls CDP, Franklin County",89.1,5.7
+0400000US25,25,Massachusetts,0600000US2501761380,2501761380,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sherborn town, Middlesex County","Sherborn town, Middlesex County",98.6,1.2
+0400000US25,25,Massachusetts,1600000US2561555,2561555,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Shirley CDP, Middlesex County","Shirley CDP, Middlesex County",94.8,4
+0400000US25,25,Massachusetts,0600000US2501761590,2501761590,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Shirley town, Middlesex County","Shirley town, Middlesex County",86.2,2.5
+0400000US25,25,Massachusetts,0600000US2502761800,2502761800,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Shrewsbury town, Worcester County","Shrewsbury town, Worcester County",94.9,1.1
+0400000US25,25,Massachusetts,0600000US2501161905,2501161905,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Shutesbury town, Franklin County","Shutesbury town, Franklin County",98.3,0.9
+0400000US25,25,Massachusetts,1600000US2561940,2561940,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Siasconset CDP, Nantucket County","Siasconset CDP, Nantucket County",93.7,8.6
+0400000US25,25,Massachusetts,1600000US2562300,2562300,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Smith Mills CDP, Bristol County","Smith Mills CDP, Bristol County",82.5,5.1
+0400000US25,25,Massachusetts,0600000US2500562430,2500562430,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Somerset town, Bristol County","Somerset town, Bristol County",85.5,2.6
+0400000US25,25,Massachusetts,1600000US2562465,2562465,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Somerset CDP, Bristol County","Somerset CDP, Bristol County",85.5,2.6
+0400000US25,25,Massachusetts,1600000US2562535,2562535,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Somerville city, Middlesex County","Somerville city, Middlesex County",89.8,1.2
+0400000US25,25,Massachusetts,1600000US2562675,2562675,"Massachusetts - PLACE AND COUNTY SUBDIVISION - South Amherst CDP, Hampshire County","South Amherst CDP, Hampshire County",94.3,2.6
+0400000US25,25,Massachusetts,0600000US2501562745,2501562745,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Southampton town, Hampshire County","Southampton town, Hampshire County",96.5,2.2
+0400000US25,25,Massachusetts,1600000US2562780,2562780,"Massachusetts - PLACE AND COUNTY SUBDIVISION - South Ashburnham CDP, Worcester County","South Ashburnham CDP, Worcester County",92.1,8.7
+0400000US25,25,Massachusetts,0600000US2502763165,2502763165,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Southborough town, Worcester County","Southborough town, Worcester County",96.6,1.6
+0400000US25,25,Massachusetts,1600000US2563345,2563345,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Southbridge Town city, Worcester County","Southbridge Town city, Worcester County",82.5,2.5
+0400000US25,25,Massachusetts,1600000US2563620,2563620,"Massachusetts - PLACE AND COUNTY SUBDIVISION - South Deerfield CDP, Franklin County","South Deerfield CDP, Franklin County",98.4,2
+0400000US25,25,Massachusetts,1600000US2563655,2563655,"Massachusetts - PLACE AND COUNTY SUBDIVISION - South Dennis CDP, Barnstable County","South Dennis CDP, Barnstable County",94.8,2.5
+0400000US25,25,Massachusetts,1600000US2563690,2563690,"Massachusetts - PLACE AND COUNTY SUBDIVISION - South Duxbury CDP, Plymouth County","South Duxbury CDP, Plymouth County",99.3,0.8
+0400000US25,25,Massachusetts,1600000US2563840,2563840,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Southfield CDP, Plymouth County","Southfield CDP, Plymouth County",-,**
+0400000US25,25,Massachusetts,0600000US2501564145,2501564145,"Massachusetts - PLACE AND COUNTY SUBDIVISION - South Hadley town, Hampshire County","South Hadley town, Hampshire County",93,1.8
+0400000US25,25,Massachusetts,1600000US2564460,2564460,"Massachusetts - PLACE AND COUNTY SUBDIVISION - South Lancaster CDP, Worcester County","South Lancaster CDP, Worcester County",96.4,4.6
+0400000US25,25,Massachusetts,0600000US2501365825,2501365825,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Southwick town, Hampden County","Southwick town, Hampden County",91.7,3.3
+0400000US25,25,Massachusetts,1600000US2566035,2566035,"Massachusetts - PLACE AND COUNTY SUBDIVISION - South Yarmouth CDP, Barnstable County","South Yarmouth CDP, Barnstable County",93.4,1.9
+0400000US25,25,Massachusetts,1600000US2566070,2566070,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Spencer CDP, Worcester County","Spencer CDP, Worcester County",82.8,4.6
+0400000US25,25,Massachusetts,0600000US2502766105,2502766105,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Spencer town, Worcester County","Spencer town, Worcester County",87.3,3.1
+0400000US25,25,Massachusetts,1600000US2567000,2567000,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Springfield city, Hampden County","Springfield city, Hampden County",77.2,1
+0400000US25,25,Massachusetts,0600000US2502767385,2502767385,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sterling town, Worcester County","Sterling town, Worcester County",95.3,2.7
+0400000US25,25,Massachusetts,0600000US2500367595,2500367595,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Stockbridge town, Berkshire County","Stockbridge town, Berkshire County",90.4,7.3
+0400000US25,25,Massachusetts,0600000US2501767665,2501767665,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Stoneham town, Middlesex County","Stoneham town, Middlesex County",94.7,1.3
+0400000US25,25,Massachusetts,1600000US2567700,2567700,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Stoneham CDP, Middlesex County","Stoneham CDP, Middlesex County",94.7,1.3
+0400000US25,25,Massachusetts,0600000US2502167945,2502167945,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Stoughton town, Norfolk County","Stoughton town, Norfolk County",91,1.4
+0400000US25,25,Massachusetts,0600000US2501768050,2501768050,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Stow town, Middlesex County","Stow town, Middlesex County",99.7,0.4
+0400000US25,25,Massachusetts,1600000US2568120,2568120,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sturbridge CDP, Worcester County","Sturbridge CDP, Worcester County",93.3,6.9
+0400000US25,25,Massachusetts,0600000US2502768155,2502768155,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sturbridge town, Worcester County","Sturbridge town, Worcester County",95,2.4
+0400000US25,25,Massachusetts,0600000US2501768260,2501768260,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sudbury town, Middlesex County","Sudbury town, Middlesex County",98.8,0.7
+0400000US25,25,Massachusetts,0600000US2501168400,2501168400,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sunderland town, Franklin County","Sunderland town, Franklin County",93.3,3.5
+0400000US25,25,Massachusetts,0600000US2502768610,2502768610,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Sutton town, Worcester County","Sutton town, Worcester County",96.5,1.6
+0400000US25,25,Massachusetts,0600000US2500968645,2500968645,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Swampscott town, Essex County","Swampscott town, Essex County",95.3,1.5
+0400000US25,25,Massachusetts,1600000US2568680,2568680,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Swampscott CDP, Essex County","Swampscott CDP, Essex County",95.3,1.5
+0400000US25,25,Massachusetts,0600000US2500568750,2500568750,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Swansea town, Bristol County","Swansea town, Bristol County",87.4,2.6
+0400000US25,25,Massachusetts,1600000US2569170,2569170,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Taunton city, Bristol County","Taunton city, Bristol County",83.4,1.4
+0400000US25,25,Massachusetts,1600000US2569205,2569205,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Teaticket CDP, Barnstable County","Teaticket CDP, Barnstable County",98.8,1.4
+0400000US25,25,Massachusetts,0600000US2502769275,2502769275,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Templeton town, Worcester County","Templeton town, Worcester County",90.6,3.5
+0400000US25,25,Massachusetts,0600000US2501769415,2501769415,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Tewksbury town, Middlesex County","Tewksbury town, Middlesex County",94,1.2
+0400000US25,25,Massachusetts,1600000US2569585,2569585,"Massachusetts - PLACE AND COUNTY SUBDIVISION - The Pinehills CDP, Plymouth County","The Pinehills CDP, Plymouth County",97.5,2.9
+0400000US25,25,Massachusetts,0600000US2500769940,2500769940,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Tisbury town, Dukes County","Tisbury town, Dukes County",95.2,2.5
+0400000US25,25,Massachusetts,0600000US2501370045,2501370045,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Tolland town, Hampden County","Tolland town, Hampden County",92.8,4.1
+0400000US25,25,Massachusetts,1600000US2570115,2570115,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Topsfield CDP, Essex County","Topsfield CDP, Essex County",96.9,2.4
+0400000US25,25,Massachusetts,0600000US2500970150,2500970150,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Topsfield town, Essex County","Topsfield town, Essex County",96.8,1.9
+0400000US25,25,Massachusetts,1600000US2570325,2570325,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Townsend CDP, Middlesex County","Townsend CDP, Middlesex County",92.6,5.5
+0400000US25,25,Massachusetts,0600000US2501770360,2501770360,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Townsend town, Middlesex County","Townsend town, Middlesex County",95.5,1.5
+0400000US25,25,Massachusetts,0600000US2500170605,2500170605,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Truro town, Barnstable County","Truro town, Barnstable County",94.4,4.7
+0400000US25,25,Massachusetts,1600000US2570815,2570815,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Turners Falls CDP, Franklin County","Turners Falls CDP, Franklin County",86.2,5.6
+0400000US25,25,Massachusetts,0600000US2501771025,2501771025,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Tyngsborough town, Middlesex County","Tyngsborough town, Middlesex County",94.9,1.8
+0400000US25,25,Massachusetts,0600000US2500371095,2500371095,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Tyringham town, Berkshire County","Tyringham town, Berkshire County",98,1.7
+0400000US25,25,Massachusetts,1600000US2571445,2571445,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Upton CDP, Worcester County","Upton CDP, Worcester County",96.3,3.2
+0400000US25,25,Massachusetts,0600000US2502771480,2502771480,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Upton town, Worcester County","Upton town, Worcester County",96.4,1.7
+0400000US25,25,Massachusetts,0600000US2502771620,2502771620,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Uxbridge town, Worcester County","Uxbridge town, Worcester County",95.3,1.8
+0400000US25,25,Massachusetts,1600000US2571970,2571970,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Vineyard Haven CDP, Dukes County","Vineyard Haven CDP, Dukes County",94.5,3.8
+0400000US25,25,Massachusetts,0600000US2501772215,2501772215,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wakefield town, Middlesex County","Wakefield town, Middlesex County",93.4,1.5
+0400000US25,25,Massachusetts,1600000US2572250,2572250,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wakefield CDP, Middlesex County","Wakefield CDP, Middlesex County",93.4,1.5
+0400000US25,25,Massachusetts,0600000US2501372390,2501372390,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wales town, Hampden County","Wales town, Hampden County",93.5,2.6
+0400000US25,25,Massachusetts,1600000US2572460,2572460,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Walpole CDP, Norfolk County","Walpole CDP, Norfolk County",91,5.1
+0400000US25,25,Massachusetts,0600000US2502172495,2502172495,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Walpole town, Norfolk County","Walpole town, Norfolk County",93.2,1.9
+0400000US25,25,Massachusetts,1600000US2572600,2572600,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Waltham city, Middlesex County","Waltham city, Middlesex County",91.2,1.2
+0400000US25,25,Massachusetts,1600000US2572845,2572845,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ware CDP, Hampshire County","Ware CDP, Hampshire County",90.2,3.6
+0400000US25,25,Massachusetts,0600000US2501572880,2501572880,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Ware town, Hampshire County","Ware town, Hampshire County",91.1,3
+0400000US25,25,Massachusetts,0600000US2502372985,2502372985,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wareham town, Plymouth County","Wareham town, Plymouth County",90.5,2.1
+0400000US25,25,Massachusetts,1600000US2573020,2573020,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wareham Center CDP, Plymouth County","Wareham Center CDP, Plymouth County",91,5.2
+0400000US25,25,Massachusetts,1600000US2573055,2573055,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Warren CDP, Worcester County","Warren CDP, Worcester County",93,8.3
+0400000US25,25,Massachusetts,0600000US2502773090,2502773090,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Warren town, Worcester County","Warren town, Worcester County",93.6,3.2
+0400000US25,25,Massachusetts,0600000US2501173265,2501173265,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Warwick town, Franklin County","Warwick town, Franklin County",89.6,3.5
+0400000US25,25,Massachusetts,0600000US2500373335,2500373335,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Washington town, Berkshire County","Washington town, Berkshire County",95.9,2.9
+0400000US25,25,Massachusetts,1600000US2573440,2573440,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Watertown Town city, Middlesex County","Watertown Town city, Middlesex County",94.3,1.1
+0400000US25,25,Massachusetts,0600000US2501773790,2501773790,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wayland town, Middlesex County","Wayland town, Middlesex County",98.3,0.7
+0400000US25,25,Massachusetts,0600000US2502773895,2502773895,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Webster town, Worcester County","Webster town, Worcester County",83.9,2.5
+0400000US25,25,Massachusetts,1600000US2573930,2573930,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Webster CDP, Worcester County","Webster CDP, Worcester County",79.9,3.2
+0400000US25,25,Massachusetts,0600000US2502174175,2502174175,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wellesley town, Norfolk County","Wellesley town, Norfolk County",98.2,0.6
+0400000US25,25,Massachusetts,1600000US2574210,2574210,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wellesley CDP, Norfolk County","Wellesley CDP, Norfolk County",98.2,0.6
+0400000US25,25,Massachusetts,0600000US2500174385,2500174385,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wellfleet town, Barnstable County","Wellfleet town, Barnstable County",96.6,2.2
+0400000US25,25,Massachusetts,0600000US2501174525,2501174525,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wendell town, Franklin County","Wendell town, Franklin County",91.1,2.9
+0400000US25,25,Massachusetts,0600000US2500974595,2500974595,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wenham town, Essex County","Wenham town, Essex County",99.2,0.7
+0400000US25,25,Massachusetts,0600000US2502775015,2502775015,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Westborough town, Worcester County","Westborough town, Worcester County",96.3,1.1
+0400000US25,25,Massachusetts,1600000US2575050,2575050,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Westborough CDP, Worcester County","Westborough CDP, Worcester County",96.7,1.4
+0400000US25,25,Massachusetts,0600000US2502775155,2502775155,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Boylston town, Worcester County","West Boylston town, Worcester County",87.7,3.4
+0400000US25,25,Massachusetts,0600000US2502375260,2502375260,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Bridgewater town, Plymouth County","West Bridgewater town, Plymouth County",92.9,2.3
+0400000US25,25,Massachusetts,1600000US2575365,2575365,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Brookfield CDP, Worcester County","West Brookfield CDP, Worcester County",87.1,6.9
+0400000US25,25,Massachusetts,0600000US2502775400,2502775400,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Brookfield town, Worcester County","West Brookfield town, Worcester County",90.2,3
+0400000US25,25,Massachusetts,1600000US2575505,2575505,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Chatham CDP, Barnstable County","West Chatham CDP, Barnstable County",93.6,5
+0400000US25,25,Massachusetts,1600000US2575680,2575680,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Concord CDP, Middlesex County","West Concord CDP, Middlesex County",88.4,3.1
+0400000US25,25,Massachusetts,1600000US2575820,2575820,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Dennis CDP, Barnstable County","West Dennis CDP, Barnstable County",93.9,4.8
+0400000US25,25,Massachusetts,1600000US2575960,2575960,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Falmouth CDP, Barnstable County","West Falmouth CDP, Barnstable County",96.8,2.4
+0400000US25,25,Massachusetts,1600000US2576030,2576030,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Westfield city, Hampden County","Westfield city, Hampden County",92.2,1.2
+0400000US25,25,Massachusetts,0600000US2501776135,2501776135,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Westford town, Middlesex County","Westford town, Middlesex County",97.4,1.2
+0400000US25,25,Massachusetts,0600000US2501576380,2501576380,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Westhampton town, Hampshire County","Westhampton town, Hampshire County",96.5,1.9
+0400000US25,25,Massachusetts,0600000US2502777010,2502777010,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Westminster town, Worcester County","Westminster town, Worcester County",94.1,2.5
+0400000US25,25,Massachusetts,0600000US2500977150,2500977150,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Newbury town, Essex County","West Newbury town, Essex County",98.7,1
+0400000US25,25,Massachusetts,0600000US2501777255,2501777255,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Weston town, Middlesex County","Weston town, Middlesex County",98.7,0.8
+0400000US25,25,Massachusetts,0600000US2500577570,2500577570,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Westport town, Bristol County","Westport town, Bristol County",88,2.5
+0400000US25,25,Massachusetts,1600000US2577890,2577890,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Springfield Town city, Hampden County","West Springfield Town city, Hampden County",88.6,2
+0400000US25,25,Massachusetts,0600000US2500377990,2500377990,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Stockbridge town, Berkshire County","West Stockbridge town, Berkshire County",96.7,2.3
+0400000US25,25,Massachusetts,0600000US2500778235,2500778235,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Tisbury town, Dukes County","West Tisbury town, Dukes County",98.8,1.6
+0400000US25,25,Massachusetts,1600000US2578410,2578410,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Wareham CDP, Plymouth County","West Wareham CDP, Plymouth County",88,5.6
+0400000US25,25,Massachusetts,0600000US2502178690,2502178690,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Westwood town, Norfolk County","Westwood town, Norfolk County",96.7,1
+0400000US25,25,Massachusetts,1600000US2578795,2578795,"Massachusetts - PLACE AND COUNTY SUBDIVISION - West Yarmouth CDP, Barnstable County","West Yarmouth CDP, Barnstable County",91.8,3.5
+0400000US25,25,Massachusetts,1600000US2578850,2578850,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Weweantic CDP, Plymouth County","Weweantic CDP, Plymouth County",95.1,4.1
+0400000US25,25,Massachusetts,1600000US2578972,2578972,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Weymouth Town city, Norfolk County","Weymouth Town city, Norfolk County",93.6,0.8
+0400000US25,25,Massachusetts,0600000US2501179110,2501179110,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Whately town, Franklin County","Whately town, Franklin County",95.7,2.6
+0400000US25,25,Massachusetts,1600000US2579390,2579390,"Massachusetts - PLACE AND COUNTY SUBDIVISION - White Island Shores CDP, Plymouth County","White Island Shores CDP, Plymouth County",91.6,7
+0400000US25,25,Massachusetts,1600000US2579495,2579495,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Whitinsville CDP, Worcester County","Whitinsville CDP, Worcester County",92.6,3.5
+0400000US25,25,Massachusetts,0600000US2502379530,2502379530,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Whitman town, Plymouth County","Whitman town, Plymouth County",92.7,1.6
+0400000US25,25,Massachusetts,1600000US2579705,2579705,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wilbraham CDP, Hampden County","Wilbraham CDP, Hampden County",90.6,4.9
+0400000US25,25,Massachusetts,0600000US2501379740,2501379740,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wilbraham town, Hampden County","Wilbraham town, Hampden County",94.9,1.9
+0400000US25,25,Massachusetts,0600000US2501579915,2501579915,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Williamsburg town, Hampshire County","Williamsburg town, Hampshire County",96.5,1.6
+0400000US25,25,Massachusetts,1600000US2579950,2579950,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Williamstown CDP, Berkshire County","Williamstown CDP, Berkshire County",91.6,4.6
+0400000US25,25,Massachusetts,0600000US2500379985,2500379985,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Williamstown town, Berkshire County","Williamstown town, Berkshire County",91.6,2.8
+0400000US25,25,Massachusetts,1600000US2580195,2580195,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wilmington CDP, Middlesex County","Wilmington CDP, Middlesex County",94.6,1.3
+0400000US25,25,Massachusetts,0600000US2501780230,2501780230,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wilmington town, Middlesex County","Wilmington town, Middlesex County",94.6,1.3
+0400000US25,25,Massachusetts,1600000US2580370,2580370,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Winchendon CDP, Worcester County","Winchendon CDP, Worcester County",84,6
+0400000US25,25,Massachusetts,0600000US2502780405,2502780405,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Winchendon town, Worcester County","Winchendon town, Worcester County",88,3.1
+0400000US25,25,Massachusetts,0600000US2501780510,2501780510,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Winchester town, Middlesex County","Winchester town, Middlesex County",97.7,0.7
+0400000US25,25,Massachusetts,1600000US2580545,2580545,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Winchester CDP, Middlesex County","Winchester CDP, Middlesex County",97.7,0.7
+0400000US25,25,Massachusetts,0600000US2500380685,2500380685,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Windsor town, Berkshire County","Windsor town, Berkshire County",97.3,1.2
+0400000US25,25,Massachusetts,1600000US2581005,2581005,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Winthrop Town city, Suffolk County","Winthrop Town city, Suffolk County",94.8,1.3
+0400000US25,25,Massachusetts,1600000US2581035,2581035,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Woburn city, Middlesex County","Woburn city, Middlesex County",94.3,1.2
+0400000US25,25,Massachusetts,1600000US2581245,2581245,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Woods Hole CDP, Barnstable County","Woods Hole CDP, Barnstable County",97.9,2.3
+0400000US25,25,Massachusetts,1600000US2582000,2582000,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Worcester city, Worcester County","Worcester city, Worcester County",84.4,0.8
+0400000US25,25,Massachusetts,0600000US2501582175,2501582175,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Worthington town, Hampshire County","Worthington town, Hampshire County",94.7,2.4
+0400000US25,25,Massachusetts,0600000US2502182315,2502182315,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Wrentham town, Norfolk County","Wrentham town, Norfolk County",97.5,1
+0400000US25,25,Massachusetts,0600000US2500182525,2500182525,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Yarmouth town, Barnstable County","Yarmouth town, Barnstable County",94,1.1
+0400000US25,25,Massachusetts,1600000US2582595,2582595,"Massachusetts - PLACE AND COUNTY SUBDIVISION - Yarmouth Port CDP, Barnstable County","Yarmouth Port CDP, Barnstable County",96.4,1.7

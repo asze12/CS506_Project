@@ -1,0 +1,17 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HC01,HC02
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic Area,Geographic Area1,Dollar,Margin of Error
+0400000US25,25,Massachusetts,0400000US25,25,Massachusetts,Massachusetts,90180,514
+0400000US25,25,Massachusetts,0500000US25001,25001,Massachusetts - Barnstable County,Barnstable County,82945,1640
+0400000US25,25,Massachusetts,0500000US25003,25003,Massachusetts - Berkshire County,Berkshire County,69540,2373
+0400000US25,25,Massachusetts,0500000US25005,25005,Massachusetts - Bristol County,Bristol County,76380,1207
+0400000US25,25,Massachusetts,0500000US25007,25007,Massachusetts - Dukes County,Dukes County,92514,9954
+0400000US25,25,Massachusetts,0500000US25009,25009,Massachusetts - Essex County,Essex County,89463,1368
+0400000US25,25,Massachusetts,0500000US25011,25011,Massachusetts - Franklin County,Franklin County,73782,1877
+0400000US25,25,Massachusetts,0500000US25013,25013,Massachusetts - Hampden County,Hampden County,63845,1259
+0400000US25,25,Massachusetts,0500000US25015,25015,Massachusetts - Hampshire County,Hampshire County,85585,2254
+0400000US25,25,Massachusetts,0500000US25017,25017,Massachusetts - Middlesex County,Middlesex County,111926,846
+0400000US25,25,Massachusetts,0500000US25019,25019,Massachusetts - Nantucket County,Nantucket County,109863,6641
+0400000US25,25,Massachusetts,0500000US25021,25021,Massachusetts - Norfolk County,Norfolk County,114285,1810
+0400000US25,25,Massachusetts,0500000US25023,25023,Massachusetts - Plymouth County,Plymouth County,95514,1444
+0400000US25,25,Massachusetts,0500000US25025,25025,Massachusetts - Suffolk County,Suffolk County,64672,1411
+0400000US25,25,Massachusetts,0500000US25027,25027,Massachusetts - Worcester County,Worcester County,85560,1223
